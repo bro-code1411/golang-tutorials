@@ -1,0 +1,4 @@
+package: bro-code/golang-tutorials
+import:
+- package: github.com/gorilla/mux
+  version: ^1.8.0
